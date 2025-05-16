@@ -33,7 +33,7 @@ theme: minima
 plugins:
   - jekyll-polyglot
 
-languages: ["en", "sv", "de", "fr"]
+languages: ["en", "sv", "de", "fr", "cn"]
 default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css", "public", "sitemap"]
 parallel_localization: true
