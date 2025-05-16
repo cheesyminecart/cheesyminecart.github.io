@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Julien Cheung
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -31,7 +31,13 @@ github_username:  cheesyminecart
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-polyglot
+
+languages: ["en", "sv", "de", "fr"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css", "public", "sitemap"]
+parallel_localization: true
+url: https://polyglot.untra.io
 
 # Exclude from processing.
 # The following items will not be processed, by default.
