@@ -2,11 +2,20 @@
 layout: page
 title: About
 permalink: /about/
+lang: en
 ---
 
-Hello! I am a freshman at the University of California, San Diego, majoring in Astronomy/Astrophysics. I am looking forward to working with you! 
+My first experience with astronomy was when I was 8. I had a dictionary at the time, with nebulae, stars, galaxies of so many different colours my brain had no choice but to acquiesce to the desire to learn. Crying over a short film of the Hayabusa-2 probe and surfing through the sparsely-populated wikipedia articles of dozens of exoplanets still remain one of my fondest memories, where each new click of the ChromeBook opened a door to a far-flung world. 
 
-The concept of the "direction" in school is 
+However, as an 8-year old in the big city, I just wasn't aware that the dark skies that once enthralled me were a mere hour by car, not until High School, when I took my first photo of the moon through a telescope. 
+
+This is why I remain interested in astrophysics. I want to learn more about the miracle of life, and teach those beginning their astronomical odysseys the tips and tricks I learned along the way. 
+
+I am interested in advocacy work! Please contact me if possible. 
+
+
+
+
 
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
