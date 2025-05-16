@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
+Hello! I am a freshman at the University of California, San Diego, majoring in Astronomy/Astrophysics. I am looking forward to working with you! 
 
+The concept of the "direction" in school is 
 
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
