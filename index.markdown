@@ -5,5 +5,5 @@
 layout: home
 lang: en
 ---
-
 Hello! I am a freshman at the University of California, San Diego, majoring in Astronomy/Astrophysics. I'm looking forward to working with you! 
+
