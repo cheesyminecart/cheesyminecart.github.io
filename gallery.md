@@ -1,6 +1,6 @@
 ---
 title: Features
-layout: feature
+permalink: /features/
 ---
 
 Here's a collection of some of my best photos! 
