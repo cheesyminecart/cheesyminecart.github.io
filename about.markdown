@@ -12,21 +12,3 @@ However, as an 8-year old in the big city, I just wasn't aware that the dark ski
 This is why I remain interested in astrophysics. I want to learn more about the miracle of life, and teach those beginning their astronomical odysseys the tips and tricks I learned along the way. 
 
 I am interested in advocacy work! Please contact me if possible. 
-
-
-
-
-
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
