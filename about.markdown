@@ -16,6 +16,7 @@ I am open to work/volunteering as a research assistant/astronomy advocate. Pleas
 ## Skills
 
 **Programming:**
+
 - Python
 - CSS/TailwindCSS
 - HTML
@@ -27,6 +28,6 @@ I am open to work/volunteering as a research assistant/astronomy advocate. Pleas
 
 **Graphics:**
 
-- I make graphics for my personal projects, which you can find [here](https://www.instagram.com/p/DJya8hrJ53R/) and [here](https://www.reddit.com/r/Stellaris/comments/1fmzhmh/the_galactic_core_on_the_eve_of_the_human_civil/). I am open to positions where I will have to make and design posters. See  for more. 
+- I make graphics for my personal projects, which you can find [here](https://www.instagram.com/p/DJya8hrJ53R/) and [here](https://www.reddit.com/r/Stellaris/comments/1fmzhmh/the_galactic_core_on_the_eve_of_the_human_civil/). I am open to positions where I will have to make and design posters. See Features for more. 
   
 - In addition, I draw my own XKCD-like comics for [MindNiche](mindniche.org). Feel free to give criticism!
