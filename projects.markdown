@@ -43,8 +43,10 @@ I participated in academic competitions for both fun and the glory of victory. A
 - British Physics Olympiad '24 Global Bronze I
 - Various Silver and Gold Awards for the British Senior Maths Challenge, or SMC.
 
-## Other things I did: 
+## Other things I do: 
+
 There are a couple other things about my character that I think are important to note: 
 
-- I am a hobbyist astrophotographer, 
-- I was the leader of the Dungeons and Dragons (DND) club for my school during the 2023-24 and 2024-25 academic years, which taught me 
+- I am a hobbyist astrophotographer, the process of which taught me proper maintenance of equipment and encouraged me to be more patient. 
+- I was the leader of the Dungeons and Dragons (DND) club for my school during the 2023-24 and 2024-25 academic years, which gave me valuable insights into being an effective, encouraging leader. 
+- I was part of the GSIS Swim Team for 7 years. 
