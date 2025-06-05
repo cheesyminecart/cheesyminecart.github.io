@@ -5,23 +5,46 @@ permalink: /projects/
 lang: en
 ---
 
-Here are the projects I am currently working on. 
+Here are the projects I am currently working on/have worked on. 
 
-## TheSpacer - My Personal Science Communication Blog
--  Another website I maintain. I built this website using the [AstroPaper](https://github.com/satnaing/astro-paper) theme, and learned a lot about proper package management. 
--  As of 17/5/25, I have roughly 40 articles that I have written over the course of 2 years. 
+## TheSpacer - My Science Communication Blog
+
+I built this website using the [AstroPaper](https://github.com/satnaing/astro-paper) theme in order to learn how better to use the terminal. 
+
+-  As of 17/5/25, I have written 40 articles, each covering a different aspect. They represent a prototypical style that I hppe to pen  
 -  You can see the website here: [](thespacer-blog.com)
 
 ## MindNiche - My Physics Notes' Organisation
 
-- 
+I run and maintain a physics notes site, [MindNiche](mindniche.org). This is intended to be a 'top-down' overview of physics concepts, similar to that of wikipedia, but with a more lighthearted writing style and xkcd-style comics pertaining to each subject. The hope is for this website to turn into an "all-in-one" resource for research papers, where links to various concepts in research papers can be accessed for better understanding
+
+I've attached some rough statistics below. The website uses a modified version of AnubisNekhet's [AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) theme and is built using [Obsidian Publish](https://obsidian.md/publish)
+
+**STATS (JUNE 2025):**
+
+- Words: 120k
 
 ## Research
 
-- In the Summer of 2024, I worked as a research intern for [Dr. Andreas Ritter](https://www.lsr.hku.hk/member/andreas-ritter-2/), a PostDoc at the [Hong Kong Laboratory for Space Research](https://www.lsr.hku.hk), where I learnt SHAPEX and prepared a presentation to teach people about my methods. 
+- In the Summer of 2024, I worked as a research intern for [Dr. Andreas Ritter](https://www.lsr.hku.hk/member/andreas-ritter-2/), a PostDoc at the [Hong Kong Laboratory for Space Research](https://www.lsr.hku.hk), where I learnt SHAPEX and prepared a presentation using the [Manim](https://manim.community) python library.
 
 ## Astronomy Outreach
 
 - I have worked as a volunteer for the Hong Kong-based [Galaxy Scientific Group](https://www.astro.hk), where I taught children how to use telescopes by providing demonstrations of both the smart SeeStar S50 and various Celestron refractor telescopes. 
 
 ## Academic Competitions
+
+I participated in academic competitions for both fun and the glory of victory. Attached below is a list of awards I received (in order of "impressiveness"):
+
+- IAAC '23 Hong Kong National Award, Gold Award (Top 2% of all participants)
+- British Astronomy and Astrophysics Olympiad Round 2 Bronze
+- UWaterloo Sir Isaac Newton Physics Competition Distinction
+- British Online Senior Physics Challenge Gold Award
+- British Physics Olympiad '24 Global Bronze I
+- Various Silver and Gold Awards for the British Senior Maths Challenge, or SMC.
+
+## Other things I did: 
+There are a couple other things about my character that I think are important to note: 
+
+- I am a hobbyist astrophotographer, 
+- I was the leader of the Dungeons and Dragons (DND) club for my school during the 2023-24 and 2024-25 academic years, which taught me 
