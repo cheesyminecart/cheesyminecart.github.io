@@ -23,10 +23,15 @@ I've attached some rough statistics below. The website uses a modified version o
 **STATS (JUNE 2025):**
 
 - Words: 120k
+- Visits: 5k
+
+Feel free to donate through the link here: https://Ko-fi.com/cheesyminecart. Any support helps me keep these two sites afloat! 
 
 ## Research
 
 - In the Summer of 2024, I worked as a research intern for [Dr. Andreas Ritter](https://www.lsr.hku.hk/member/andreas-ritter-2/), a PostDoc at the [Hong Kong Laboratory for Space Research](https://www.lsr.hku.hk), where I learnt SHAPEX and prepared a presentation using the [Manim](https://manim.community) python library.
+
+I am open to any REUs/UROPs available to me. Please message me whenever possible!
 
 ## Astronomy Outreach
 
@@ -34,7 +39,7 @@ I've attached some rough statistics below. The website uses a modified version o
 
 ## Academic Competitions
 
-I participated in academic competitions for both fun and the glory of victory. Attached below is a list of awards I received (in order of "impressiveness"):
+During high school, I participated in academic competitions for both fun and the glory of victory. Attached below is a list of awards I received (in order of "impressiveness"):
 
 - IAAC '23 Hong Kong National Award, Gold Award (Top 2% of all participants)
 - British Astronomy and Astrophysics Olympiad Round 2 Bronze
@@ -43,10 +48,12 @@ I participated in academic competitions for both fun and the glory of victory. A
 - British Physics Olympiad '24 Global Bronze I
 - Various Silver and Gold Awards for the British Senior Maths Challenge, or SMC.
 
-## Other things I do: 
+## Other things I do (MISC): 
 
-There are a couple other things about my character that I think are important to note: 
+Here are a couple other things that I think may be relevant: 
 
 - I am a hobbyist astrophotographer, the process of which taught me proper maintenance of equipment and encouraged me to be more patient. 
 - I was the leader of the Dungeons and Dragons (DND) club for my school during the 2023-24 and 2024-25 academic years, which gave me valuable insights into being an effective, encouraging leader. 
 - I was part of the GSIS Swim Team for 7 years. 
+- I led the GSIS Physics Society for the 2024-2025 academic year. I ran activities regarding telescopes and mounts, as well as hosted quizzes and made physics news segments to involve more people. 
+- I am also a hobbyist Scuba Diver and have reached the "Advanced Open Water Diver" tier of PADI. 
