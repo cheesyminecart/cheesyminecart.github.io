@@ -5,7 +5,7 @@
 layout: home
 lang: en
 ---
-Hello! I am a freshman at the University of California, San Diego, majoring in Astronomy/Astrophysics. I'm looking forward to working with you! 
+Hello! I am a freshman at Imperial College, entering with an MSci in Physics. I'm looking forward to working with you! 
 
 ![Website Cover Image](/images/orionnebula.png)
 
