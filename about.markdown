@@ -11,7 +11,7 @@ However, as an 8-year old in the big city, I just wasn't aware that the dark ski
 
 This is why I remain interested in astrophysics. I want to learn more about the miracle of life, and teach those beginning their astronomical odysseys the tips and tricks I learned along the way. 
 
-I am open to work/volunteering as a research assistant/astronomy advocate. Please contact me at [](jccheung@ucsd.edu) if you find me a good fit for said work!
+I am open to work/volunteering as a research assistant/astronomy advocate. Please contact me at [](jcc425@ic.ac.uk) if you find me a good fit for said work. I prefer doing work in exoplanets, if any such opportunities arise. 
 
 ## Skills
 
@@ -22,9 +22,12 @@ I am open to work/volunteering as a research assistant/astronomy advocate. Pleas
 - HTML
 - LaTeX
 
+I am also in the process of learning Rust. 
+
 **Science Writing:**
 
-- I run a physics Notes site, [MindNiche](mindniche.org), and have a personal astronomy-bites website, [TheSpacer](https://thespacer-blog.com). Will likely be pursuing some form of partnership with Wolfram/AAPS soon for the former. 
+- I run a physics Notes site, [MindNiche](mindniche.org), and have a personal astronomy-bites website, [TheSpacer](https://thespacer-blog.com). Will likely be pursuing some form of partnership with Wolfram/AAPS soon for the former, at the very least. 
+
 
 **Graphics:**
 
