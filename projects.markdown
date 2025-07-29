@@ -41,7 +41,7 @@ I am open to any REUs/UROPs available to me. Please message me whenever possible
 
 During high school, I participated in academic competitions for both fun and the glory of victory. Attached below is a list of awards I received (in order of "impressiveness"):
 
-- IAAC '23 Hong Kong National Award, Gold Award (Top 2% of all participants)
+- IAAC '23 Hong Kong National Award, Gold Award (Scored top 2% of all participants)
 - British Astronomy and Astrophysics Olympiad Round 2 Bronze
 - UWaterloo Sir Isaac Newton Physics Competition Distinction
 - British Online Senior Physics Challenge Gold Award
@@ -56,4 +56,4 @@ Here are a couple other things that I think may be relevant:
 - I was the leader of the Dungeons and Dragons (DND) club for my school during the 2023-24 and 2024-25 academic years, which gave me valuable insights into being an effective, encouraging leader. 
 - I was part of the GSIS Swim Team for 7 years. 
 - I led the GSIS Physics Society for the 2024-2025 academic year. I ran activities regarding telescopes and mounts, as well as hosted quizzes and made physics news segments to involve more people. 
-- I am also a hobbyist Scuba Diver and have reached the "Advanced Open Water Diver" tier of PADI. 
+- I am also a hobbyist Scuba Diver and am an "Advanced Open Water Diver", as per PADI certifications. 
