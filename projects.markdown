@@ -11,8 +11,8 @@ Here are the projects I am currently working on/have worked on.
 
 I built this website using the [AstroPaper](https://github.com/satnaing/astro-paper) theme in order to learn how better to use the terminal. 
 
--  As of 17/5/25, I have written 40 articles, each covering a different aspect. They represent a prototypical style that I hppe to pen  
--  You can see the website here: [](thespacer-blog.com)
+-  As of 17/5/25, I have written 40 articles, each covering a different aspect of what I'm interested in. Don't get me wrong, these aren't anywhere good enough to publish to magazines, but I'm hoping to use this as a jumping base for that later on. 
+-  You can find the website here: [thespacer-blog.com](thespacer-blog.com). Takes are bad. Have fun!
 
 ## MindNiche - My Physics Notes' Organisation
 
@@ -42,7 +42,7 @@ I am open to any REUs/UROPs available to me. Please message me whenever possible
 During high school, I participated in academic competitions for both fun and the glory of victory. Attached below is a list of awards I received (in order of "impressiveness"):
 
 - IAAC '23 Hong Kong National Award, Gold Award (Scored top 2% of all participants)
-- British Astronomy and Astrophysics Olympiad Round 2 Bronze
+- British Astronomy and Astrophysics Olympiad Round 2 Bronze (1 point below silver :/ :/)
 - UWaterloo Sir Isaac Newton Physics Competition Distinction
 - British Online Senior Physics Challenge Gold Award
 - British Physics Olympiad '24 Global Bronze I

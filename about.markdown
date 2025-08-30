@@ -5,11 +5,7 @@ permalink: /about/
 lang: en
 ---
 
-My first experience with astronomy was when I was 8. I had a dictionary at the time, with nebulae, stars, galaxies of so many different colours my brain had no choice but to acquiesce to the desire to learn. Crying over a short film of the Hayabusa-2 probe and surfing through the sparsely-populated wikipedia articles of dozens of exoplanets still remain one of my fondest memories, where each new click of the ChromeBook opened a door to a far-flung world. 
-
-However, as an 8-year old in the big city, I just wasn't aware that the dark skies that once enthralled me were a mere hour by car, not until High School, when I took my first photo of the moon through a telescope. 
-
-This is why I remain interested in astrophysics. I want to learn more about the miracle of life, and teach those beginning their astronomical odysseys the tips and tricks I learned along the way. 
+Hi! I'm Julien, and I'm interested in astrophysics! 
 
 I am open to work/volunteering as a research assistant/astronomy advocate. Please contact me at [](jcc425@ic.ac.uk) if you find me a good fit for said work. I prefer doing work in exoplanets, if any such opportunities arise. 
 
@@ -21,8 +17,6 @@ I am open to work/volunteering as a research assistant/astronomy advocate. Pleas
 - CSS/TailwindCSS
 - HTML
 - LaTeX
-
-I am also in the process of learning Rust. 
 
 **Science Writing:**
 
