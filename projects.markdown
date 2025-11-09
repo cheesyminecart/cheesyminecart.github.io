@@ -9,16 +9,15 @@ Here are the projects I am currently working on/have worked on.
 
 ## TheSpacer - My Science Communication Blog
 
-I built this website using the [AstroPaper](https://github.com/satnaing/astro-paper) theme in order to learn how better to use the terminal. 
-
 -  As of 17/5/2025, I have written 40 articles, each covering a different aspect of what I'm interested in. Don't get me wrong, these aren't anywhere good enough to publish to magazines, but I'm hoping to use this as a jumping base for that later on. 
--  You can find the website here: [thespacer-blog.com](thespacer-blog.com). Takes are bad. Have fun!
-
+-  You can find the website here: [thespacer-blog.com](thespacer-blog.com). Have fun!
+-  This website was build using [AstroPaper](https://astro.build/themes/details/astropaper).
+  
 ## MindNiche - My Physics Notes' Organisation
 
-I run and maintain a physics notes site, [MindNiche](mindniche.org). This is intended to be a 'top-down' overview of physics concepts, similar to that of wikipedia, but with a more lighthearted writing style and xkcd-style comics pertaining to each subject. The hope is for this website to turn into an "all-in-one" resource for research papers, where links to various concepts in research papers can be accessed for better understanding
+I run and maintain a physics notes site, [MindNiche](mindniche.org). These notes are in paragraph form and come as a reaction against people selling their notes. I am an advocate for free knowledge and have thus attempted to put all the notes I've taken online in order to undermine the business of selling notes at a premium. 
 
-I've attached some rough statistics below. The website uses a modified version of AnubisNekhet's [AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) theme and is built using [Obsidian Publish](https://obsidian.md/publish)
+I've attached some rough statistics below. The website uses a modified version of AnubisNekhet's [AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) theme and is built using [Obsidian Publish](https://obsidian.md/publish). 
 
 **STATS (06/2025):**
 
@@ -31,7 +30,7 @@ Feel free to donate through the link here: https://Ko-fi.com/cheesyminecart. Any
 
 - 23/6/2024 - 23/7/2024, I worked as a research intern for [Dr. Andreas Ritter](https://www.lsr.hku.hk/member/andreas-ritter-2/), a PostDoc at the [Hong Kong Laboratory for Space Research](https://www.lsr.hku.hk), where I learnt SHAPEX and prepared a presentation using the [Manim](https://manim.community) python library.
 
-I am open to any REUs/UROPs available to me. Please message me whenever possible!
+I am open to any IROPs/UROPs available to me. Please message me whenever possible!
 
 ## Astronomy Outreach
 
@@ -52,9 +51,9 @@ During high school, I participated in academic competitions for both fun and the
 
 Here are a couple other things that I think may be relevant: 
 
-- I am a hobbyist astrophotographer, the process of which taught me proper maintenance of equipment and encouraged me to be more patient. 
-- I was the leader of the Dungeons and Dragons (DND) club for my school during the 2023-24 and 2024-2025 academic years, which gave me valuable insights into being an effective, encouraging leader. 
-- I was part of the GSIS Swim Team for 7 years. 
-- I led the GSIS Physics Society for the 2024-2025 academic year. I ran activities regarding telescopes and mounts, as well as hosted quizzes and made physics news segments to involve more people. 
+- I am a hobbyist astrophotographer. This has made me a far more patient person than before, which has benefitted me greatly in my studies. 
+- I was the leader of the Dungeons and Dragons (DND) club for my school during the 2023-24 and 2024-2025 academic years, where I ran a successful one-shot campaign for several other students. Through leading this club, I gained significant insights into the many aspects of effective communication, and have since then joined several other DND groups to continue improving. 
+- I was part of the GSIS Swim Team for 7 years, and have won ISSFHK and HKSSF medals in the 4x50 freestyle and breaststroke relays. 
+- I led the GSIS Physics Society for the 2024-2025 academic year. I, along with my co-leader, ran the Physics Society Action Week, which consisted of a telescope introductory session, a talk by a professor, and a kahoot quiz. Roughly ~30-40 people turned up to each event. 
 - I am also a hobbyist Scuba Diver and am an "Advanced Open Water Diver", as per PADI certifications. 
-- I am fluent in English and Cantonese and have working proficiencies for Mandarin and German
+- I am fluent in English and Cantonese and have working proficiencies in Mandarin and German. 
