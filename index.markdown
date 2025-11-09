@@ -5,7 +5,7 @@
 layout: home
 lang: en
 ---
-Hello! I am a freshman at Imperial College, entering with an MSci in Physics. I'm looking forward to working with you! 
+Hello! I am a first year at Imperial College, pursuing a MSci in Physics. I'm looking forward to working with you! 
 
 ![Website Cover Image](/images/orionnebula.png)
 
