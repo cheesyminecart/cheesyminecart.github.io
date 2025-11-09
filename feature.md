@@ -7,9 +7,13 @@ permalink: /features/
 
 A bunch of the comics I've made for my physics journey. These are intended to replicate the **style** of early-ish XKCD, and are more skewed towards detailing outlandish scenarios. It was very easy keeping engaged making these comics :D. 
 
-![alt text](/images/gas-piston-mishap-comic.png)
+![adiabaticcomic](/images/gas-piston-mishap-comic.png)
 
 <figcaption style="text-align: center">For an IB Thermodynamics Note. Maybe DON'T gut the car for the experiments next time...</figcaption>
+
+![e&mchaptercomic](/images/e&mcomic.png)
+
+<figcaption style="text-align: center">Magnets. How DO they work?</figcaption>
 
 # Astrophotography 
 
