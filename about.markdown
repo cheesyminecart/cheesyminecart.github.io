@@ -7,7 +7,7 @@ lang: en
 
 Hi! I'm Julien, and I'm interested in astrophysics! 
 
-I am open to work/volunteering as a research assistant/astronomy advocate. Please contact me at [](jcc425@ic.ac.uk) if you find me a good fit for said work. I prefer doing work in exoplanets, if any such opportunities arise. 
+I am open to work/volunteering as a research assistant/astronomy advocate. Please contact me at [](jcc425@ic.ac.uk) if you find me a good fit for said work. I prefer doing work in exoplanets or cyclone modelling. 
 
 ## Skills
 
@@ -27,4 +27,4 @@ I am open to work/volunteering as a research assistant/astronomy advocate. Pleas
 
 - I make graphics for my personal projects, which you can find [here](https://www.instagram.com/p/DJya8hrJ53R/) and [here](https://www.reddit.com/r/Stellaris/comments/1fmzhmh/the_galactic_core_on_the_eve_of_the_human_civil/). I am open to positions where I will have to make and design posters. See Features for more. 
   
-- In addition, I draw my own XKCD-like comics for [MindNiche](mindniche.org). Feel free to give criticism!
+- In addition, I draw my own XKCD-like comics for [MindNiche](mindniche.org). Take a look, leave a comment, and most importantly, enjoy!
